@@ -17,9 +17,9 @@ This will watch the project directory and restart as necessary.
 
 Create an .env file with the following environment variables:
 
-``
+```
 ARTFOLDER="/Folder/Where/To/Store/The/Images/"
 SEED=<number>
-``
+```
 
 Add `REMOTE=1` to the environment variables to enable zip download
